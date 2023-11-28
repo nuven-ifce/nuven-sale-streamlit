@@ -1,0 +1,35 @@
+{
+    "leaflet_id": "oi",
+    "page": "page1",
+    "leaflet_items": [
+        {
+            "item_id": "Oferta0",
+            "product_id": "56a76b58275ddd3c1663b31a",
+            "value": "2,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "Oferta4",
+            "product_id": "63a9cf0b76581d48c1172749",
+            "value": "3,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        },
+        {
+            "item_id": "Oferta8",
+            "product_id": "5690279791c2d39c5604f503",
+            "value": "3,99",
+            "dynamic": "OFERTA_DE_POR",
+            "minimum_quantity": 1
+        }
+    ],
+    "unidentified_leaflet_items_ids": [
+        "Oferta1",
+        "Oferta2",
+        "Oferta3",
+        "Oferta5",
+        "Oferta6",
+        "Oferta7"
+    ]
+}
